@@ -1,1 +1,6 @@
 # AWS-App
+
+Expanding my knowledge in cloud computing.
+Currently learning the most commonly used AWS services, such as EC2, S3, RDS, Route53, DynamoDB, Cloudwatch, etc...
+
+Currently in progress...
