@@ -15,7 +15,7 @@ Because of the costs of aws services, these instances are not running always. So
 ![alt text](https://github.com/Dacili/AWS/blob/master/s3.PNG)
 
 **Lamda**  - serverless functions (trigger them on the events that you choose, very cheap, auto-scalable..)
-I was triggering my lamda execution on the event: uploading files in S3.
+I was triggering my lambda execution on the event: uploading files in S3.
 ![alt text](https://github.com/Dacili/AWS/blob/master/lambda1.PNG)
 All logs are managed with the **Cloud watch** :
 ![alt text](https://github.com/Dacili/AWS/blob/master/lamda%20cloud%20watch%20logs.PNG)
