@@ -11,4 +11,7 @@ Elastic beanstalk - for hosting your web apps (you don't manage separately servi
 EC2 instance (Elastic Compute Cloud) - similar to a virtual machine (VM)
 ![alt text](https://github.com/Dacili/AWS/blob/master/ec2.PNG)
 
+S3 (Simple storage service) - storage that contains buckets (think of it as folders), in buckets you are putting the files. 
+![alt text](https://github.com/Dacili/AWS/blob/master/s3.PNG)
+
 Currently in progress...
