@@ -1,4 +1,4 @@
-# AWS-App
+# AWS - Amazon Web Services
 
 Expanding my knowledge in cloud computing.
 Currently learning the most commonly used AWS services, such as EC2, Elastic Beanstalk, S3, RDS, Lamda, Route53, DynamoDB, Cloudwatch, etc...
