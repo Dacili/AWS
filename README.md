@@ -14,4 +14,10 @@ EC2 instance (Elastic Compute Cloud) - similar to a virtual machine (VM)
 S3 (Simple storage service) - storage that contains buckets (think of it as folders), in buckets you are putting the files. 
 ![alt text](https://github.com/Dacili/AWS/blob/master/s3.PNG)
 
+Lamda - serverless functions (trigger them on the events that you choose, very cheap, auto-scalable..)
+I was triggering my lamda exection on the event: uploading files in S3.
+![alt text](https://github.com/Dacili/AWS/blob/master/lambda1.PNG)
+All logs are managed with the Cloud watch:
+![alt text](https://github.com/Dacili/AWS/blob/master/lamda%20cloud%20watch%20logs.PNG)
+
 Currently in progress...
