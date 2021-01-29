@@ -21,5 +21,6 @@ All logs are managed with the **Cloud watch** :
 ![alt text](https://github.com/Dacili/AWS/blob/master/lamda%20cloud%20watch%20logs.PNG)
 
 **IAM - Identity and Access Management** - use of IAM is for the security and identity. You can create groups, roles, users. You can assign different permissions to them. 
+![alt text](https://github.com/Dacili/AWS/blob/master/IAM.PNG)
 
 Currently in progress...
