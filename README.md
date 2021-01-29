@@ -23,9 +23,9 @@ All logs are managed with the **Cloud watch** :
 **IAM - Identity and Access Management** - use of IAM is for the security and identity. You can create groups, roles, users. You can assign different permissions to them. <br />
 ![alt text](https://github.com/Dacili/AWS/blob/master/IAM.PNG)
 
-Databases:
-**DynamoDB** - NoSql database
-**RDS** - sql database.
-There are also many others options for dbs...
+Databases: <br />
+* **DynamoDB** - NoSql database <br />
+* **RDS** - SQL database <br />
+* There are also many others options for dbs (like Aurora, Elasticache)...
 
 
