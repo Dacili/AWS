@@ -5,7 +5,7 @@ Currently learning the most commonly used AWS services, such as EC2, Elastic Bea
 
 Because of the costs of aws services, these instances are not running always. So that's the reason why I will upload images without links to created resources.
 
-**Elastic beanstalk** - for hosting your web apps (you don't manage separately services, elastic beanstalk do it for you :D)
+**Elastic beanstalk** - for hosting your web apps (you don't manage separately services, elastic beanstalk does it for you :D)
 ![alt text](https://github.com/Dacili/AWS/blob/master/elastic%20beanstalk.PNG)
 
 **EC2 (Elastic Compute Cloud)** instance  - similar to a virtual machine (VM)
